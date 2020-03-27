@@ -11,4 +11,4 @@ jobs:
           LAMETRIC_ACCESS_TOKEN: ${{ secrets.LAMETRIC_ACCESS_TOKEN }}
           LAMETRIC_PUSH_URL: ${{ secrets.LAMETRIC_PUSH_URL }}
           NOTIFICATION_ICON: ${{ secrets.NOTIFICATION_ICON }}
-          $NOTIFICATION_TEXT: ${{ secrets.$NOTIFICATION_TEXT }}
+          NOTIFICATION_TEXT: ${{ secrets.NOTIFICATION_TEXT }}
