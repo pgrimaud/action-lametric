@@ -24,29 +24,29 @@ To use the action simply add the following lines to your workflow.yml file.
 
 1 - Create a LaMetric developer account here : https://developer.lametric.com/
 
-2 - Create a new *INDICATOR APP*
+2 - Create a new **INDICATOR APP**
 
 ![LaMetric Indicator App](https://user-images.githubusercontent.com/1866496/77777070-488aba80-704f-11ea-812d-53f3233c441e.png)
 
 3 - Select a default icon and default name 
 
-4 - Set communication type to *Push*
+4 - Set communication type to **Push**
 
 ![Communication type](https://user-images.githubusercontent.com/1866496/77777291-a7503400-704f-11ea-8cb5-96cdf607c0d2.png)
 
-5 - Click on bottom button *Next*
+5 - Click on bottom button **Next**
 
 6 - Fill the form.
 
-*!!!IMPORTANT!!! : Set App visibility to PRIVATE*
+**!!!IMPORTANT!!! : Set App visibility to PRIVATE**
 
 ![image](https://user-images.githubusercontent.com/1866496/77777616-1af24100-7050-11ea-9e19-0c3db2f077a9.png)
 
 7 - Save and publish app
 
-8 - Get *Push URL* from LaMetric App and set it to secret var `LAMETRIC_PUSH_URL` in your repository
+8 - Get **Push URL** from LaMetric App and set it to secret var `LAMETRIC_PUSH_URL` in your repository
 
-9 - Get *Access token* from LaMetric App and set it to secret var `LAMETRIC_ACCESS_TOKEN` in your repository
+9 - Get **Access token** from LaMetric App and set it to secret var `LAMETRIC_ACCESS_TOKEN` in your repository
 
 10 - Download App on your LaMetric
 
