@@ -4,6 +4,8 @@
 
 Send notification to your LaMetric using Github Actions
 
+![Demo of action](https://user-images.githubusercontent.com/1866496/77781464-e7b2b080-7055-11ea-9c23-d627ea7a8fbc.gif)
+
 ## Usage
 
 To use the action simply add the following lines to your workflow.yml file.
