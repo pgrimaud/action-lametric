@@ -50,7 +50,7 @@ To use the action simply add the following lines to your workflow.yml file.
 
 10 - Download App on your LaMetric
 
-11 - Done!
+11 - Done! 
 
 ## License
 
