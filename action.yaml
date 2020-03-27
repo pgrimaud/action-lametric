@@ -1,0 +1,9 @@
+name: 'Notify LaMetric'
+author: 'Pierre Grimaud'
+description: 'Send notification to your LaMetric using Github Actions'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'bell'
+  color: 'gray-dark'
