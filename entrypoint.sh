@@ -1,7 +1,7 @@
 #!/bin/sh
 
 if [ -z "$NOTIFICATION_ICON" ]; then
-  NOTIFICATION_ICON=21802
+  NOTIFICATION_ICON="i21802"
 fi
 
 if [ -z "$NOTIFICATION_TEXT" ]; then

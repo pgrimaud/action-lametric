@@ -12,7 +12,7 @@ To use the action simply add the following lines to your workflow.yml file.
 ...
   steps:
       - uses: actions/checkout@v2
-      - uses: pgrimaud/action-lametric@master
+      - uses: pgrimaud/action-lametric@v1
         env:
             LAMETRIC_ACCESS_TOKEN: ${{ secrets.LAMETRIC_ACCESS_TOKEN }}
             LAMETRIC_PUSH_URL: ${{ secrets.LAMETRIC_PUSH_URL }}
