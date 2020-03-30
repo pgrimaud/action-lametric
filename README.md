@@ -52,7 +52,11 @@ To use the action simply add the following lines to your workflow.yml file.
 
 10 - Download App on your LaMetric
 
-11 - Done! 
+11 - Active notify on your LaMetric app (optional: choose a sound for notification)
+
+![image](https://user-images.githubusercontent.com/1866496/77902839-1f9e3b80-7282-11ea-9193-aa77582ca9c4.png)
+
+12 - Done! 
 
 ## License
 
